@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11723.189
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPU test", "GPU test\GPU test.csproj", "{B5F4ACEC-85B5-498F-A468-FF6F73EB5159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockTraining(GPU)", "BlockBlast7\BlockTraining(GPU).csproj", "{8D96CB51-4D12-4D44-A4B3-5DA10E958D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiceBuilder", "PiceBuilder\PiceBuilder.csproj", "{2EE926C2-65DF-46E1-BE2F-8993B77B3A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockBlastRelease", "BlockBlastNice\BlockBlastRelease.csproj", "{F4B54560-558F-4C8A-B155-0F1447EC7072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F4ACEC-85B5-498F-A468-FF6F73EB5159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F4ACEC-85B5-498F-A468-FF6F73EB5159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F4ACEC-85B5-498F-A468-FF6F73EB5159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F4ACEC-85B5-498F-A468-FF6F73EB5159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D96CB51-4D12-4D44-A4B3-5DA10E958D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D96CB51-4D12-4D44-A4B3-5DA10E958D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D96CB51-4D12-4D44-A4B3-5DA10E958D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D96CB51-4D12-4D44-A4B3-5DA10E958D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE926C2-65DF-46E1-BE2F-8993B77B3A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE926C2-65DF-46E1-BE2F-8993B77B3A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE926C2-65DF-46E1-BE2F-8993B77B3A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE926C2-65DF-46E1-BE2F-8993B77B3A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B54560-558F-4C8A-B155-0F1447EC7072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B54560-558F-4C8A-B155-0F1447EC7072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B54560-558F-4C8A-B155-0F1447EC7072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B54560-558F-4C8A-B155-0F1447EC7072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2FA82AA-1FCE-4863-985E-5784FABF7590}
+	EndGlobalSection
+EndGlobal
